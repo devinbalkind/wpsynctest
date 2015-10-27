@@ -9,4 +9,4 @@ permalink: >
   http://flolab.org/wp3/2015/10/27/this-is-a-test-post/
 published: true
 ---
-Can we edit on github?
+Can we edit on github?  I think we can!
