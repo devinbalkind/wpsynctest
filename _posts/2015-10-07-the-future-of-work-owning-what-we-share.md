@@ -4,7 +4,7 @@ post_title: 'The Future of Work: Owning What We Share'
 author: Nathan Schneider
 post_date: 2015-10-07 08:34:22
 post_excerpt: |
-  <p>Business and labor leaders, social scientists, technology visionaries, activists, and journalists weigh in on the most consequential changes in the workplace through this special project. The culture surrounding the Internet has a way of changing the meanings of common words. &ldquo;Democratizing&rdquo; now means that more people can book air travel [&hellip;]</p>
+  <p>The latest entry in a special project in which business and labor leaders, social scientists, technology visionaries, activists, and journalists weigh in on the most consequential changes in the workplace. The culture surrounding the Internet has a way of changing the meanings of common words. &ldquo;Democratizing&rdquo; now means that more people can book air travel [&hellip;]</p>
   <p>The post <a rel="nofollow" href="http://blog.p2pfoundation.net/the-future-of-work-owning-what-we-share/2015/10/07">The Future of Work: Owning What We Share</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.</p>
 layout: post
 permalink: >
