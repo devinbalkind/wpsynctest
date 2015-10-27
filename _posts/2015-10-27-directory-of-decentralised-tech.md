@@ -4,7 +4,7 @@ post_title: Directory of Decentralised Tech
 author: Guy James
 post_date: 2015-10-27 16:18:52
 post_excerpt: |
-  <p>The excellent Re-Decentralize project presents: &ldquo;A collection of interesting new networks and tech aiming at decentralisation (in some form).&rdquo; It includes well-known projects such as Bitcoin and Ethereum alongside some lesser known but up-and-coming things like sandstorm.io and OpenBazaar. Well worth a look; maybe your next project could be less reliant on centralised tech than [&hellip;]</p>
+  <p>&ldquo;A collection of interesting new networks and tech aiming at decentralisation (in some form).&rdquo; It includes well-known projects such as Bitcoin and Ethereum alongside some lesser known but up-and-coming things like sandstorm.io and OpenBazaar. Well worth a look; maybe your next project could be less reliant on centralised tech than [&hellip;]</p>
   <p>The post <a rel="nofollow" href="http://blog.p2pfoundation.net/directory-of-decentralised-tech/2015/10/27">Directory of Decentralised Tech</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.</p>
 layout: post
 permalink: >
