@@ -37,7 +37,7 @@ syndication_permalink:
 syndication_item_hash:
   - 0fdfb2e5adafa7611352b795976e07d1
 ---
-<p>The excellent <a href="http://blog.p2pfoundation.net/re-decentralizing-the-internet/2014/05/16" >Re-Decentralize project</a> presents: &#8220;A collection of interesting new networks and tech aiming at decentralisation (in some form).&#8221;</p>
+<p>A collection of interesting new networks and tech aiming at decentralisation (in some form).&#8221;</p>
 <p>It includes well-known projects such as Bitcoin and Ethereum alongside some lesser known but up-and-coming things like sandstorm.io and OpenBazaar.</p>
 <p>Well worth a look; maybe your next project could be less reliant on centralised tech than you thought&#8230;</p>
 <p><a href="https://redecentralize.github.io/alternative-internet/" >Alternative Internet</a>.</p>
