@@ -1,5 +1,5 @@
 ---
-ID: 384
+ID: 383
 post_title: 'Essay of the Day: Collective Individuation as the Future of the Social Web'
 author: Michel Bauwens
 post_date: 2015-10-31 17:24:26
