@@ -5,7 +5,7 @@ author: Stacco Troncoso
 post_date: 2015-11-10 12:52:45
 post_excerpt: |
   <p>Can we have a commons without care and affection? A special guest post by Sof&iacute;a Coca from Zemos 98. Copylove started in 2011 as a local informal network for investigations into commons and feminist practices. Later, it turned into a public and open investigation via www.copylove.cc (only in Spanish) led by Sof&iacute;a Coca (ZEMOS98, Sevilla), [&hellip;]</p>
-  <p>The post <a rel="nofollow" href="http://blog.p2pfoundation.net/the-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa/2015/11/10">The Importance of Care and Affections in our Communities: Copylove and the Invisible Commons</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.</p>
+  <p>The post <a rel="nofollow" href="http://blog.p2pfoundation.net/the-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa/2015/11/17">The Importance of Care and Affections in our Communities: Copylove and the Invisible Commons</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.</p>
 layout: post
 permalink: >
   http://flolab.org/wp3/2015/11/10/the-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commons/
@@ -25,7 +25,7 @@ syndication_source_id:
     http://feeds.feedburner.com/P2pFoundation
 "wfw:commentRSS":
   - >
-    http://blog.p2pfoundation.net/the-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa/2015/11/10/feed
+    http://blog.p2pfoundation.net/the-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa/2015/11/17/feed
 syndication_feed:
   - >
     http://feeds.feedburner.com/P2pFoundation
@@ -33,9 +33,17 @@ syndication_feed_id:
   - "2"
 syndication_permalink:
   - >
-    http://feedproxy.google.com/~r/P2pFoundation/~3/qZgS6U1_UbY/10
+    http://feedproxy.google.com/~r/P2pFoundation/~3/uHnapYZfG7U/17
 syndication_item_hash:
   - 0317807872687bad214c2a33a6f2bd3f
+  - d166ab5491559fdf9d948ac9cfb9cf84
+  - 5c32d2f0c3ab732b06dca653b9ce37c5
+  - 1770419fb11441c63ff4ee2d1a99b446
+  - 31f5daf99fee499b87973e525c63c4b8
+  - 0081780cfba77b0d21576fbebb4cac13
+  - 40866cc2a6a01b9b1d3d9a36235836a8
+  - aa975703f61eaa0b53e83688f25d75dd
+  - 818cf4059aa72a2b394dc4bd2fe4a412
 ---
 <img class="aligncenter size-large wp-image-52624" src="http://blog.p2pfoundation.net/wp-content/uploads/Care-adnd-affection-1024x683.jpg" alt="Care adnd affection" width="1024" height="683" />
 
@@ -63,7 +71,7 @@ On other hand, when we talk about the market and the government, we talk about w
 
 <div id="attachment_246" style="width: 637px" class="wp-caption aligncenter">
   <a href="http://www.zemos98.org/wp-content/uploads/2015/10/cartel-12.jpg"><img class=" wp-image-246" src="http://www.zemos98.org/wp-content/uploads/2015/10/cartel-12-709x1024.jpg" alt="&quot;Our mothers teached us that life is a battlefield. The battlefield of making possible what we consider life&quot;. Poster of the 14 ZEMOS98 Festival, dedicated to our mothers. " width="627" height="906" /></a><p class="wp-caption-text">
-    “Our mothers teached us that life is a battlefield. The battlefield of making possible what we consider life”. Poster of the 14 ZEMOS98 Festival, dedicated to our mothers.
+    “Our mothers taught us that life is a battlefield. The battlefield of making possible what we consider life”. Poster of the 14 ZEMOS98 Festival, dedicated to our mothers.
   </p>
 </div>
 
@@ -89,15 +97,15 @@ After that, we did [another Festival dedicated to Copylove in April 2013][8] and
 
 In summary: without care, life is impossible. Life cannot be “productive” without a care centered economy. If we have been “productive” in the fiction called capitalism, it is thanks to the fact that we care for others, what some have labelled as an “unproductive” action: domestic work, the reproduction of labor. Without care, working life could not exist in a market economy, although these practices are not visible. This invisible work has been done by women (and here «women» can be also understood as minorities). Neither state nor market have managed to cover a fundamental need: the right to be cared for/of.
 
-<a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa%2F2015%2F11%2F10&linkname=The%20Importance%20of%20Care%20and%20Affections%20in%20our%20Communities%3A%20Copylove%20and%20the%20Invisible%20Commons" title="Facebook" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/facebook.png" width="16" height="16" alt="Facebook" /></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa%2F2015%2F11%2F10&linkname=The%20Importance%20of%20Care%20and%20Affections%20in%20our%20Communities%3A%20Copylove%20and%20the%20Invisible%20Commons" title="Twitter" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/twitter.png" width="16" height="16" alt="Twitter" /></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa%2F2015%2F11%2F10&linkname=The%20Importance%20of%20Care%20and%20Affections%20in%20our%20Communities%3A%20Copylove%20and%20the%20Invisible%20Commons" title="Google+" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/google_plus.png" width="16" height="16" alt="Google+" /></a><a class="a2a_button_reddit" href="http://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa%2F2015%2F11%2F10&linkname=The%20Importance%20of%20Care%20and%20Affections%20in%20our%20Communities%3A%20Copylove%20and%20the%20Invisible%20Commons" title="Reddit" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/reddit.png" width="16" height="16" alt="Reddit" /></a><a class="a2a_dd a2a_target addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa%2F2015%2F11%2F10&title=The%20Importance%20of%20Care%20and%20Affections%20in%20our%20Communities%3A%20Copylove%20and%20the%20Invisible%20Commons" id="wpa2a_2"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/share_save_120_16.png" width="120" height="16" alt="Share" /></a>
+<a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa%2F2015%2F11%2F17&linkname=The%20Importance%20of%20Care%20and%20Affections%20in%20our%20Communities%3A%20Copylove%20and%20the%20Invisible%20Commons" title="Facebook" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/facebook.png" width="16" height="16" alt="Facebook" /></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa%2F2015%2F11%2F17&linkname=The%20Importance%20of%20Care%20and%20Affections%20in%20our%20Communities%3A%20Copylove%20and%20the%20Invisible%20Commons" title="Twitter" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/twitter.png" width="16" height="16" alt="Twitter" /></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa%2F2015%2F11%2F17&linkname=The%20Importance%20of%20Care%20and%20Affections%20in%20our%20Communities%3A%20Copylove%20and%20the%20Invisible%20Commons" title="Google+" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/google_plus.png" width="16" height="16" alt="Google+" /></a><a class="a2a_button_reddit" href="http://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa%2F2015%2F11%2F17&linkname=The%20Importance%20of%20Care%20and%20Affections%20in%20our%20Communities%3A%20Copylove%20and%20the%20Invisible%20Commons" title="Reddit" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/reddit.png" width="16" height="16" alt="Reddit" /></a><a class="a2a_dd a2a_target addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa%2F2015%2F11%2F17&title=The%20Importance%20of%20Care%20and%20Affections%20in%20our%20Communities%3A%20Copylove%20and%20the%20Invisible%20Commons" id="wpa2a_2"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/share_save_120_16.png" width="120" height="16" alt="Share" /></a>
 
-The post <a rel="nofollow" href="http://blog.p2pfoundation.net/the-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa/2015/11/10">The Importance of Care and Affections in our Communities: Copylove and the Invisible Commons</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.
+The post <a rel="nofollow" href="http://blog.p2pfoundation.net/the-importance-of-care-and-affections-in-our-communities-copylove-and-the-invisible-commonsa/2015/11/17">The Importance of Care and Affections in our Communities: Copylove and the Invisible Commons</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.
 
 <div class="feedflare">
-  <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=qZgS6U1_UbY:yDa-NOF69Tc:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=7Q72WNTAKBA" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=qZgS6U1_UbY:yDa-NOF69Tc:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?i=qZgS6U1_UbY:yDa-NOF69Tc:D7DqB2pKExk" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=qZgS6U1_UbY:yDa-NOF69Tc:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=2mJPEYqXBVI" border="0" /></img></a>
+  <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=uHnapYZfG7U:yDa-NOF69Tc:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=7Q72WNTAKBA" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=uHnapYZfG7U:yDa-NOF69Tc:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?i=uHnapYZfG7U:yDa-NOF69Tc:D7DqB2pKExk" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=uHnapYZfG7U:yDa-NOF69Tc:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=2mJPEYqXBVI" border="0" /></img></a>
 </div>
 
-<img src="http://feeds.feedburner.com/~r/P2pFoundation/~4/qZgS6U1_UbY" height="1" width="1" alt="" />
+<img src="http://feeds.feedburner.com/~r/P2pFoundation/~4/uHnapYZfG7U" height="1" width="1" alt="" />
 
  [1]: http://www.zemos98.org/english-bio/
  [2]: http://www.copylove.cc/
