@@ -1,0 +1,74 @@
+---
+ID: 975
+post_title: 'A critique of Paul Mason’s PostCapitalism: on the danger of over-emphasizing the positivity of networks'
+author: Michel Bauwens
+post_date: 2015-11-18 15:55:32
+post_excerpt: |
+  <p>Excerpted from David Beer: &ldquo;I think there are some good reasons for us to hesitate before placing networks at the epicentre of any postcapitalist future. One potential problem we might have is with Mason&rsquo;s attempts to differentiate between networks and hierarchies. This is something he does frequently in his book. As a result, networks&rsquo; disruptive [&hellip;]</p>
+  <p>The post <a rel="nofollow" href="http://blog.p2pfoundation.net/a-critique-of-paul-masons-postcapitalism-on-the-danger-of-over-emphasizing-the-positivity-of-networks/2015/11/18">A critique of Paul Mason&rsquo;s PostCapitalism: on the danger of over-emphasizing the positivity of networks</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.</p>
+layout: post
+permalink: >
+  http://flolab.org/wp3/2015/11/18/a-critique-of-paul-masons-postcapitalism-on-the-danger-of-over-emphasizing-the-positivity-of-networks/
+published: true
+enclosure:
+  - |
+    |
+        
+        
+        
+syndication_source:
+  - P2P Foundation
+syndication_source_uri:
+  - http://blog.p2pfoundation.net
+syndication_source_id:
+  - >
+    http://feeds.feedburner.com/P2pFoundation
+"wfw:commentRSS":
+  - >
+    http://blog.p2pfoundation.net/a-critique-of-paul-masons-postcapitalism-on-the-danger-of-over-emphasizing-the-positivity-of-networks/2015/11/18/feed
+syndication_feed:
+  - >
+    http://feeds.feedburner.com/P2pFoundation
+syndication_feed_id:
+  - "2"
+syndication_permalink:
+  - >
+    http://feedproxy.google.com/~r/P2pFoundation/~3/RnymVTsTm_c/18
+syndication_item_hash:
+  - 142e0ba8f8af5c7a53fa99d21bc0d348
+---
+[Excerpted][1] from **David Beer**:
+
+“I think there are some good reasons for us to hesitate before placing networks at the epicentre of any postcapitalist future.
+
+One potential problem we might have is with Mason’s attempts to differentiate between networks and hierarchies. This is something he does frequently in his book. As a result, networks’ disruptive capacities take on an important and functional role in Mason’s vision. In many ways, networks, as a central part of a range of technological shifts, become the key mechanism for the transformations central to postcapitalism. What is crucial here is that networks are seen as providing an alternative to hierarchies.
+
+Mason (212) suggests, for example, that ‘the main faultline in the modern world is between networks and hierarchies’. He adds that ‘everything is pervaded by a fight between network and hierarchy’ (144) and that ‘everything comes down to the struggle between the network and the hierarchy’ (xix). This somehow suggests that either networks can exist in a form that is not hierarchical or, perhaps, that they are by their very nature non-hierarchical. The question is whether either of these is actually the case.
+
+Despite their appearance, networks often contain hierarchies. Despite their appearance, networks often contain hierarchies. Much of what we know about contemporary decentralised networks would suggest that they are not free from hierarchies. Just to pick one quite superficial example, if we look at something obvious like social media then Klout scores and other means of measuring influence and amplification are designed to reveal those very hierarchies. Networks are not flat, they are 3 dimensional, they have a z axis. Decentralization, then, is not necessarily equivalent to empowerment or democratisation. It may not even give people the voice that it appears to give them. Instead we are all left howling into the wind, with a few select voices getting heard above the din. We should instantly wonder why it is that those few voices get heard, is it something about what is being said or is it potentially a product of the particular hierarchies afforded by these media infrastructures and their apparently equally distributed chances of communication.
+
+Jodi Dean is even more negative in her understanding of these decentralised networks. Her argument is that the there is a lot of noise and very little listening going on within social media. She calls this ‘communicative capitalism’. Her point is that the communications we engage with in these networks are all part of the capitalist system of which those networks are a key component. Even where we appear to be resisting, questioning or, as Mason suggests, ‘rebelling’, Dean’s point is that we are merely contributing to the maintenance of communicative capitalism. What we say has little value other than to the system to which we are contributing content. Here the network is not seen to offer any alternatives, it merely serves to reinforce neoliberal capitalism. And then we can add to this David Hill’s recent observation that such communicative capitalism promotes precarity, fragility and exacerbates individualism.
+
+The question this poses is that if networks are indeed both hierarchical and central to contemporary capitalism, then how do they fit into a vision of postcapitalism? What if, rather than offering opportunities for alternatives to be fostered, these networks are in fact cementing existing social hierarchies? If we are to engage in imagining the future of postcapitalism, as Mason suggests we should, then we will need to reassess the role of networks within that future. Seeing networks as somehow offering a space outside of existing power dynamics rather than as a central part of them is something that needs to be questioned. If we look at it in this way, then perhaps capitalism has not, as Mason (xiii) claims, ‘reached the limits of its capacity to adapt’. If capitalism is embedded so deeply within the structure of these networks, then I wonder how easy it will be to rely upon them to engineer or enact postcapitalism.
+
+What if, rather than offering opportunities for alternatives to be fostered, these networks are in fact cementing existing social hierarchies?To add a further dimension to these arguments, we might also reflect on the power of the infrastructures of these networks. We need to think about the way that these infrastructures shape the circulation of data and information, we need to consider the politics of circulation that is at play. Algorithms – the decision making parts of software code – now play an important role in the formation of networks and in the flow of information around those networks. Algorithms order, rank and recommend. They decide what is visible to us amongst the unfathomable masses of information. Think here about how Twitter’s recommendations of who to follow might shape the network itself. We are more likely to encounter and perhaps connect with those who are recommended to us, simply because they are more visible to us. Then last year’s stories about the manipulation of Facebook news feeds also revealed how algorithms are responsible for the things we discover or know about. So we need to think of how the networks and the flows of information around them might be products of the infrastructures that afford and intervene in those flows.
+
+Mason sees the openness of information as being important in a postcapitalist world. Which makes good sense. But what we have said already would suggest that contemporary networks might well be the source of what he calls the ‘asymmetry of information’ – with companies using what they know about us to pursue value. Mason understandably suggests that postcapitalism would require us to stand against such asymmetry in information access, but we have to wonder if the networks that are now in place are more likely to preserve and even exacerbate this problem. Social media networks, for instance, are designed to extract information about us for commercial ends. This would suggest that decentralised networks don’t necessarily provide an alternative to this asymmetry of information, in fact they may frequently be the very means by which this asymmetry is achieved. This would make them an unlikely antidote to the protectionism that surrounds information and data.
+
+We can extend this politics of circulation to Mason’s (269) suggestion that in planning for a postcapitalist future ‘we should use the new breed of simulation tools to model every proposal virtually before we enact it for real’. Here we can imagine how certain types of accumulated data will be drawn into certain types of software based systems and the algorithms will then enact certain types of models in simulating the future of the social world. In other words, the very act of modelling the future is itself performative – it will bring about the futures that are modelled into the coding of the software, which will in turn be informed by the type of data that has been selected from the archive. There is the potential for powerful and obdurate social norms and inequalities to be modelled into these simulations.
+
+So not only will this politics of data circulation shape the interactions and communications within networks, it may also then come to determine our imagined futures. This is what Louise Amoore calls the ‘politics of possibility’. Amoore’s work in this area is concerned with understanding the way that data and algorithmic processes are used to imagine futures. These imagined possible scenarios are then used to determine current decision making. Walter Benjamin once wrote of the way that history is filled with ‘the presence of the now’, in this case our futures will be imagined through our understanding of the present. Simulations are not neutral imaginings of outcomes.
+
+All of this is not to suggest that Mason’s vision of postcapitalism is somehow faulty, rather it is to argue that we need to reflect further on the role of networks within that vision. Rather than providing answers, networks present something of a foreboding obstacle for postcapitalism. Some tricky navigation is required. Without this, a focus on networks might lead us towards something that looks like postcapitalism but which actually conceals the same old power dynamics, hierarchies and inequalities. I just wonder if this focus on the promise of decentralized networks will actually mean that we are unable to escape the logic of capitalism, particularly as the very processes of power distribution, information asymmetry and hierarchy are frequently realised and maintained through these networks. As we are at the point that Mason calls the ‘design stage’ of postcapitalism, it may be a good moment to revisit the potential role of the network.”
+
+<a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fa-critique-of-paul-masons-postcapitalism-on-the-danger-of-over-emphasizing-the-positivity-of-networks%2F2015%2F11%2F18&linkname=A%20critique%20of%20Paul%20Mason%E2%80%99s%20PostCapitalism%3A%20on%20the%20danger%20of%20over-emphasizing%20the%20positivity%20of%20networks" title="Facebook" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/facebook.png" width="16" height="16" alt="Facebook" /></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fa-critique-of-paul-masons-postcapitalism-on-the-danger-of-over-emphasizing-the-positivity-of-networks%2F2015%2F11%2F18&linkname=A%20critique%20of%20Paul%20Mason%E2%80%99s%20PostCapitalism%3A%20on%20the%20danger%20of%20over-emphasizing%20the%20positivity%20of%20networks" title="Twitter" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/twitter.png" width="16" height="16" alt="Twitter" /></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fa-critique-of-paul-masons-postcapitalism-on-the-danger-of-over-emphasizing-the-positivity-of-networks%2F2015%2F11%2F18&linkname=A%20critique%20of%20Paul%20Mason%E2%80%99s%20PostCapitalism%3A%20on%20the%20danger%20of%20over-emphasizing%20the%20positivity%20of%20networks" title="Google+" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/google_plus.png" width="16" height="16" alt="Google+" /></a><a class="a2a_button_reddit" href="http://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fa-critique-of-paul-masons-postcapitalism-on-the-danger-of-over-emphasizing-the-positivity-of-networks%2F2015%2F11%2F18&linkname=A%20critique%20of%20Paul%20Mason%E2%80%99s%20PostCapitalism%3A%20on%20the%20danger%20of%20over-emphasizing%20the%20positivity%20of%20networks" title="Reddit" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/reddit.png" width="16" height="16" alt="Reddit" /></a><a class="a2a_dd a2a_target addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fblog.p2pfoundation.net%2Fa-critique-of-paul-masons-postcapitalism-on-the-danger-of-over-emphasizing-the-positivity-of-networks%2F2015%2F11%2F18&title=A%20critique%20of%20Paul%20Mason%E2%80%99s%20PostCapitalism%3A%20on%20the%20danger%20of%20over-emphasizing%20the%20positivity%20of%20networks" id="wpa2a_2"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/share_save_120_16.png" width="120" height="16" alt="Share" /></a>
+
+The post <a rel="nofollow" href="http://blog.p2pfoundation.net/a-critique-of-paul-masons-postcapitalism-on-the-danger-of-over-emphasizing-the-positivity-of-networks/2015/11/18">A critique of Paul Mason’s PostCapitalism: on the danger of over-emphasizing the positivity of networks</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.
+
+<div class="feedflare">
+  <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=RnymVTsTm_c:iLvDuSeDH4M:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=7Q72WNTAKBA" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=RnymVTsTm_c:iLvDuSeDH4M:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?i=RnymVTsTm_c:iLvDuSeDH4M:D7DqB2pKExk" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=RnymVTsTm_c:iLvDuSeDH4M:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=2mJPEYqXBVI" border="0" /></img></a>
+</div>
+
+<img src="http://feeds.feedburner.com/~r/P2pFoundation/~4/RnymVTsTm_c" height="1" width="1" alt="" />
+
+ [1]: https://opendemocracy.net/uk/david-beer/masons-postcapitalism-are-networks-actually-part-of-problem
