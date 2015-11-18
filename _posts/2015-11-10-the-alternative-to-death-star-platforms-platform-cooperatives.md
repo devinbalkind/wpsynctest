@@ -5,7 +5,7 @@ author: Michel Bauwens
 post_date: 2015-11-10 21:47:03
 post_excerpt: |
   <p>This is a follow up to our excerpts on November 8 about the emergence of Death Star Platforms like Uber and AirBNB. Excerpted from Neal Gorenflo: &ldquo;Below are five things platform coops must do to beat Death Stars platforms. 1. Incubate the Templates It will take focused, well-resourced, and consistent effort to work out the [&hellip;]</p>
-  <p>The post <a rel="nofollow" href="http://blog.p2pfoundation.net/the-alternative-to-death-star-platforms-platform-cooperatives/2015/11/10">The alternative to Death Star Platforms: Platform Cooperatives</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.</p>
+  <p>The post <a rel="nofollow" href="http://blog.p2pfoundation.net/the-alternative-to-death-star-platforms-platform-cooperatives/2015/11/17">The alternative to Death Star Platforms: Platform Cooperatives</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.</p>
 layout: post
 permalink: >
   http://flolab.org/wp3/2015/11/10/the-alternative-to-death-star-platforms-platform-cooperatives/
@@ -25,7 +25,7 @@ syndication_source_id:
     http://feeds.feedburner.com/P2pFoundation
 "wfw:commentRSS":
   - >
-    http://blog.p2pfoundation.net/the-alternative-to-death-star-platforms-platform-cooperatives/2015/11/10/feed
+    http://blog.p2pfoundation.net/the-alternative-to-death-star-platforms-platform-cooperatives/2015/11/17/feed
 syndication_feed:
   - >
     http://feeds.feedburner.com/P2pFoundation
@@ -33,7 +33,7 @@ syndication_feed_id:
   - "2"
 syndication_permalink:
   - >
-    http://feedproxy.google.com/~r/P2pFoundation/~3/XfjR5twsvk8/10
+    http://feedproxy.google.com/~r/P2pFoundation/~3/noguYf-cHWE/17
 syndication_item_hash:
   - e1ac5e754f43f11ff4087425a6360572
   - 1311e0956bf7c5af00813435fe71e505
@@ -41,6 +41,9 @@ syndication_item_hash:
   - 4bad441bae20910d86d583f8426030ba
   - d93c3d09ae044221e72c5b712a5356c5
   - 714c2f0124ddbe3ee4b8726192a1bebe
+  - 6c43df311d65c7803806dc64978a6a70
+  - 2210ebc7bd579271bcc20910930b9665
+  - 9733e59b9bceff705fe034410555fd16
 ---
 This is a follow up to our excerpts on November 8 about the emergence of [Death Star Platforms][1] like Uber and AirBNB.
 
@@ -91,15 +94,15 @@ These examples represent three common developmental patterns for platform coops.
 
 All of these paths are worth pursuing. As we do this, we must take care not to duplicate the organizational monoculture of Silicon Valley. However, it’s important to acknowledge that this movement will not produce viable competitors quickly. It took Silicon Valley decades to perfect the assembly line manufacture of startups. It shouldn’t take this movement that long, since Silicon Valley has paved much of the way. The movement can artfully adapt Silicon Valley startup methodology, business models, design, and its innovation ecosystem to launch a wave of platform coops.”
 
-<a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-alternative-to-death-star-platforms-platform-cooperatives%2F2015%2F11%2F10&linkname=The%20alternative%20to%20Death%20Star%20Platforms%3A%20Platform%20Cooperatives" title="Facebook" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/facebook.png" width="16" height="16" alt="Facebook" /></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-alternative-to-death-star-platforms-platform-cooperatives%2F2015%2F11%2F10&linkname=The%20alternative%20to%20Death%20Star%20Platforms%3A%20Platform%20Cooperatives" title="Twitter" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/twitter.png" width="16" height="16" alt="Twitter" /></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-alternative-to-death-star-platforms-platform-cooperatives%2F2015%2F11%2F10&linkname=The%20alternative%20to%20Death%20Star%20Platforms%3A%20Platform%20Cooperatives" title="Google+" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/google_plus.png" width="16" height="16" alt="Google+" /></a><a class="a2a_button_reddit" href="http://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-alternative-to-death-star-platforms-platform-cooperatives%2F2015%2F11%2F10&linkname=The%20alternative%20to%20Death%20Star%20Platforms%3A%20Platform%20Cooperatives" title="Reddit" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/reddit.png" width="16" height="16" alt="Reddit" /></a><a class="a2a_dd a2a_target addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-alternative-to-death-star-platforms-platform-cooperatives%2F2015%2F11%2F10&title=The%20alternative%20to%20Death%20Star%20Platforms%3A%20Platform%20Cooperatives" id="wpa2a_14"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/share_save_120_16.png" width="120" height="16" alt="Share" /></a>
+<a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-alternative-to-death-star-platforms-platform-cooperatives%2F2015%2F11%2F17&linkname=The%20alternative%20to%20Death%20Star%20Platforms%3A%20Platform%20Cooperatives" title="Facebook" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/facebook.png" width="16" height="16" alt="Facebook" /></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-alternative-to-death-star-platforms-platform-cooperatives%2F2015%2F11%2F17&linkname=The%20alternative%20to%20Death%20Star%20Platforms%3A%20Platform%20Cooperatives" title="Twitter" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/twitter.png" width="16" height="16" alt="Twitter" /></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-alternative-to-death-star-platforms-platform-cooperatives%2F2015%2F11%2F17&linkname=The%20alternative%20to%20Death%20Star%20Platforms%3A%20Platform%20Cooperatives" title="Google+" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/google_plus.png" width="16" height="16" alt="Google+" /></a><a class="a2a_button_reddit" href="http://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-alternative-to-death-star-platforms-platform-cooperatives%2F2015%2F11%2F17&linkname=The%20alternative%20to%20Death%20Star%20Platforms%3A%20Platform%20Cooperatives" title="Reddit" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/reddit.png" width="16" height="16" alt="Reddit" /></a><a class="a2a_dd a2a_target addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fblog.p2pfoundation.net%2Fthe-alternative-to-death-star-platforms-platform-cooperatives%2F2015%2F11%2F17&title=The%20alternative%20to%20Death%20Star%20Platforms%3A%20Platform%20Cooperatives" id="wpa2a_4"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/share_save_120_16.png" width="120" height="16" alt="Share" /></a>
 
-The post <a rel="nofollow" href="http://blog.p2pfoundation.net/the-alternative-to-death-star-platforms-platform-cooperatives/2015/11/10">The alternative to Death Star Platforms: Platform Cooperatives</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.
+The post <a rel="nofollow" href="http://blog.p2pfoundation.net/the-alternative-to-death-star-platforms-platform-cooperatives/2015/11/17">The alternative to Death Star Platforms: Platform Cooperatives</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.
 
 <div class="feedflare">
-  <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=XfjR5twsvk8:L9Hd4_2UyWY:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=7Q72WNTAKBA" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=XfjR5twsvk8:L9Hd4_2UyWY:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?i=XfjR5twsvk8:L9Hd4_2UyWY:D7DqB2pKExk" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=XfjR5twsvk8:L9Hd4_2UyWY:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=2mJPEYqXBVI" border="0" /></img></a>
+  <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=noguYf-cHWE:L9Hd4_2UyWY:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=7Q72WNTAKBA" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=noguYf-cHWE:L9Hd4_2UyWY:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?i=noguYf-cHWE:L9Hd4_2UyWY:D7DqB2pKExk" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=noguYf-cHWE:L9Hd4_2UyWY:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=2mJPEYqXBVI" border="0" /></img></a>
 </div>
 
-<img src="http://feeds.feedburner.com/~r/P2pFoundation/~4/XfjR5twsvk8" height="1" width="1" alt="" />
+<img src="http://feeds.feedburner.com/~r/P2pFoundation/~4/noguYf-cHWE" height="1" width="1" alt="" />
 
  [1]: http://p2pfoundation.net/Death_Star_Platforms
  [2]: http://www.shareable.net/blog/how-platform-coops-can-beat-death-stars-like-uber-to-create-a-real-sharing-economy
