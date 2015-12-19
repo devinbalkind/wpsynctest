@@ -1,5 +1,5 @@
 ---
-ID: 1870
+ID: 1869
 post_title: 'Video: a proof of concept for a open source circular economy'
 author: Michel Bauwens
 post_date: 2015-12-19 05:37:52
