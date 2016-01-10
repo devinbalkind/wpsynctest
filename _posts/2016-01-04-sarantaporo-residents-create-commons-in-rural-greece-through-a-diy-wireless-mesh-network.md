@@ -8,7 +8,7 @@ author: vasilis niaros
 post_date: 2016-01-04 08:42:40
 post_excerpt: |
   <p>An article by Jeffrey Andreoni at shareable.net The story of Sarantaporo&rsquo;s DIY wireless network is one worth telling and sharing.&nbsp;Filmmaking collective&nbsp;Personal Cinema&nbsp;is attempting to do just that. It is very close to successfully completing&nbsp;their&nbsp;crowdfunding campaign&nbsp;needed to finish&nbsp;their documentary about a mesh network deep in rural Greece. The film, Building Communities of Commons in Greece,&nbsp;aims to [&hellip;]</p>
-  <p>The post <a rel="nofollow" href="http://blog.p2pfoundation.net/sarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network/2016/01/04">Sarantaporo residents create Commons in rural Greece through a DIY wireless mesh network</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.</p>
+  <p>The post <a rel="nofollow" href="http://blog.p2pfoundation.net/sarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network/2016/01/10">Sarantaporo residents create Commons in rural Greece through a DIY wireless mesh network</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.</p>
 layout: post
 permalink: >
   http://flolab.org/wp3/2016/01/04/sarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network/
@@ -28,7 +28,7 @@ syndication_source_id:
     http://feeds.feedburner.com/P2pFoundation
 "wfw:commentRSS":
   - >
-    http://blog.p2pfoundation.net/sarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network/2016/01/04/feed
+    http://blog.p2pfoundation.net/sarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network/2016/01/10/feed
 syndication_feed:
   - >
     http://feeds.feedburner.com/P2pFoundation
@@ -36,9 +36,10 @@ syndication_feed_id:
   - "2"
 syndication_permalink:
   - >
-    http://feedproxy.google.com/~r/P2pFoundation/~3/tJN68ealSHo/04
+    http://feedproxy.google.com/~r/P2pFoundation/~3/YVMq_k6dSXU/10
 syndication_item_hash:
   - b3dc708a92d25f7e3b152a0ab3203d8d
+  - 2837da0f2c20b3ea978c437e63ef6a92
 ---
 An article by [Jeffrey Andreoni][1] at [shareable.net][2]
 
@@ -69,15 +70,15 @@ Mesh networks are not only for [rural environments][16], but have myriad uses, m
 
 Find the source article [here][18].
 
-<a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fsarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network%2F2016%2F01%2F04&linkname=Sarantaporo%20residents%20create%20Commons%20in%20rural%20Greece%20through%20a%20DIY%20wireless%20mesh%20network" title="Facebook" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/facebook.png" width="16" height="16" alt="Facebook" /></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fsarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network%2F2016%2F01%2F04&linkname=Sarantaporo%20residents%20create%20Commons%20in%20rural%20Greece%20through%20a%20DIY%20wireless%20mesh%20network" title="Twitter" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/twitter.png" width="16" height="16" alt="Twitter" /></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fsarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network%2F2016%2F01%2F04&linkname=Sarantaporo%20residents%20create%20Commons%20in%20rural%20Greece%20through%20a%20DIY%20wireless%20mesh%20network" title="Google+" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/google_plus.png" width="16" height="16" alt="Google+" /></a><a class="a2a_button_reddit" href="http://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fsarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network%2F2016%2F01%2F04&linkname=Sarantaporo%20residents%20create%20Commons%20in%20rural%20Greece%20through%20a%20DIY%20wireless%20mesh%20network" title="Reddit" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/reddit.png" width="16" height="16" alt="Reddit" /></a><a class="a2a_dd a2a_target addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fblog.p2pfoundation.net%2Fsarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network%2F2016%2F01%2F04&title=Sarantaporo%20residents%20create%20Commons%20in%20rural%20Greece%20through%20a%20DIY%20wireless%20mesh%20network" id="wpa2a_2"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/share_save_120_16.png" width="120" height="16" alt="Share" /></a>
+<a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fsarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network%2F2016%2F01%2F10&linkname=Sarantaporo%20residents%20create%20Commons%20in%20rural%20Greece%20through%20a%20DIY%20wireless%20mesh%20network" title="Facebook" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/facebook.png" width="16" height="16" alt="Facebook" /></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fsarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network%2F2016%2F01%2F10&linkname=Sarantaporo%20residents%20create%20Commons%20in%20rural%20Greece%20through%20a%20DIY%20wireless%20mesh%20network" title="Twitter" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/twitter.png" width="16" height="16" alt="Twitter" /></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fsarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network%2F2016%2F01%2F10&linkname=Sarantaporo%20residents%20create%20Commons%20in%20rural%20Greece%20through%20a%20DIY%20wireless%20mesh%20network" title="Google+" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/google_plus.png" width="16" height="16" alt="Google+" /></a><a class="a2a_button_reddit" href="http://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fblog.p2pfoundation.net%2Fsarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network%2F2016%2F01%2F10&linkname=Sarantaporo%20residents%20create%20Commons%20in%20rural%20Greece%20through%20a%20DIY%20wireless%20mesh%20network" title="Reddit" rel="nofollow"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/icons/reddit.png" width="16" height="16" alt="Reddit" /></a><a class="a2a_dd a2a_target addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fblog.p2pfoundation.net%2Fsarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network%2F2016%2F01%2F10&title=Sarantaporo%20residents%20create%20Commons%20in%20rural%20Greece%20through%20a%20DIY%20wireless%20mesh%20network" id="wpa2a_2"><img src="http://blog.p2pfoundation.net/wp-content/plugins/add-to-any/share_save_120_16.png" width="120" height="16" alt="Share" /></a>
 
-The post <a rel="nofollow" href="http://blog.p2pfoundation.net/sarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network/2016/01/04">Sarantaporo residents create Commons in rural Greece through a DIY wireless mesh network</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.
+The post <a rel="nofollow" href="http://blog.p2pfoundation.net/sarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network/2016/01/10">Sarantaporo residents create Commons in rural Greece through a DIY wireless mesh network</a> appeared first on <a rel="nofollow" href="http://blog.p2pfoundation.net/">P2P Foundation</a>.
 
 <div class="feedflare">
-  <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=tJN68ealSHo:60ULsh7px2s:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=7Q72WNTAKBA" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=tJN68ealSHo:60ULsh7px2s:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?i=tJN68ealSHo:60ULsh7px2s:D7DqB2pKExk" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=tJN68ealSHo:60ULsh7px2s:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=2mJPEYqXBVI" border="0" /></img></a>
+  <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=YVMq_k6dSXU:60ULsh7px2s:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=7Q72WNTAKBA" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=YVMq_k6dSXU:60ULsh7px2s:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?i=YVMq_k6dSXU:60ULsh7px2s:D7DqB2pKExk" border="0" /></img></a> <a href="http://feeds.feedburner.com/~ff/P2pFoundation?a=YVMq_k6dSXU:60ULsh7px2s:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/P2pFoundation?d=2mJPEYqXBVI" border="0" /></img></a>
 </div>
 
-<img src="http://feeds.feedburner.com/~r/P2pFoundation/~4/tJN68ealSHo" height="1" width="1" alt="" />
+<img src="http://feeds.feedburner.com/~r/P2pFoundation/~4/YVMq_k6dSXU" height="1" width="1" alt="" />
 
  [1]: http://www.shareable.net/users/jeffrey-andreoni
  [2]: http://www.shareable.net/
